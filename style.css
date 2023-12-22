@@ -1,0 +1,10 @@
+body{
+    background-image: url(ss8.jpg) , url(ss4.jpg);
+    background-position: left top;
+    background-repeat: repeat;
+
+    
+}
+
+
+p{color: yellow;} 
